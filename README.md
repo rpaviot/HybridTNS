@@ -6,6 +6,7 @@ Example can be found in notebook.
 Requirements : 
 - numpy
 - scipy 
+- astropy 
 - class : https://github.com/lesgourg/class_public
 - respresso : http://www2.yukawa.kyoto-u.ac.jp/~takahiro.nishimichi/public_codes/respresso/index.html
 - hankl for fftlog : https://arxiv.org/abs/2106.06331
